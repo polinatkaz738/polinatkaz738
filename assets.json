@@ -1,0 +1,196 @@
+{
+  "assets": [
+    {
+      "name": "BG_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "Vertical 9:16 mobile game menu background, deep forest green royal orchard gallery with golden light from above, dark green at the bottom, calm low-contrast centre band, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, no text, no UI elements"
+    },
+    {
+      "name": "BG_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "Vertical 9:16 mobile game play background, royal garden court terrace, warm golden haze at the top, dark green shadowed floor at the bottom, very low contrast through the middle so falling objects stay readable, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, no text, no UI elements"
+    },
+    {
+      "name": "sprite_crest",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_crest.png",
+      "prompt": "One single heraldic emblem, a crown above a stylised round fruit framed by two leaves, front view, symmetric, gold and deep green, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_tray_base",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_tray_base.png",
+      "prompt": "One single ornate royal serving tray seen from the front, slightly tilted toward the viewer, symmetric, three empty rounded slots in a row, gold rim, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_pad_green",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_pad_green.png",
+      "prompt": "One single rounded square velvet cushion, front view, symmetric, bright leaf green with gold piping, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_pad_gold",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_pad_gold.png",
+      "prompt": "One single rounded square velvet cushion, front view, symmetric, warm gold with darker gold piping, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_pad_coral",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_pad_coral.png",
+      "prompt": "One single rounded square velvet cushion, front view, symmetric, coral red with gold piping, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_crown_marker",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_crown_marker.png",
+      "prompt": "One single small royal crown pointing UP, front view, symmetric, gold with green gems, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_fruit_green",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_fruit_green.png",
+      "prompt": "One single glossy green pear, front view, stem UP, bright leaf green body with one small leaf, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_fruit_gold",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_fruit_gold.png",
+      "prompt": "One single glossy golden apricot, front view, stem UP, warm gold body with one small leaf, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_fruit_coral",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_fruit_coral.png",
+      "prompt": "One single glossy coral red peach, front view, stem UP, coral body with one small leaf, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_fruit_plum_crowned",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_fruit_plum_crowned.png",
+      "prompt": "One single glossy deep purple plum wearing a tiny gold crown, front view, crown UP, symmetric, royal violet body, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_sparkle_burst",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sparkle_burst.png",
+      "prompt": "One single four-pointed sparkle star, front view, symmetric, warm gold, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_miss_puff",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_miss_puff.png",
+      "prompt": "One single round cartoon dust puff cloud, front view, symmetric, coral red, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_icon_life",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_life.png",
+      "prompt": "One single tiny simple crown badge, front view, symmetric, gold on a dark green disc, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_icon_favor",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_favor.png",
+      "prompt": "One single laurel wreath ring badge, front view, symmetric, gold and green, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_btn_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_btn_back.png",
+      "prompt": "One single chunky arrow glyph, side view, pointing LEFT, flat cream colour, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_btn_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_btn_pause.png",
+      "prompt": "One single pause glyph of two thick vertical bars, front view, symmetric, flat cream colour, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_close_x",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_close_x.png",
+      "prompt": "One single thick diagonal cross close glyph, front view, symmetric, flat cream colour, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_stage_medal",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_stage_medal.png",
+      "prompt": "One single round medal badge with a laurel edge and a flat centre, front view, symmetric, gold rim on a deep green face, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_tut_swipe",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_tut_swipe.png",
+      "prompt": "One single instructional pictogram, a serving tray below a long horizontal double-headed arrow, front view, symmetric, gold arrow over a green tray, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_tut_tap",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_tut_tap.png",
+      "prompt": "One single instructional pictogram, a serving tray with three coloured cushions in a row and a small crown marker above the middle one, front view, symmetric, green gold and coral cushions, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_vine_decor",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_vine_decor.png",
+      "prompt": "One single hanging leafy vine garland, hanging DOWN, deep green leaves with small gold berries, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_crate_decor",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_crate_decor.png",
+      "prompt": "One single small wooden harvest crate seen from the front, symmetric, warm brown with gold corner caps, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_lane_guide",
+      "type": "generic",
+      "transparent": true,
+      "sliced": true,
+      "target": "Assets/Art/Sprites/sprite_lane_guide.png",
+      "prompt": "One single thin vertical soft-edged light beam strip, front view, symmetric, flat pale green, seamless top and bottom ends, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_panel_frame",
+      "type": "generic",
+      "transparent": true,
+      "sliced": true,
+      "target": "Assets/Art/Sprites/sprite_panel_frame.png",
+      "prompt": "One single rectangular ornate royal frame with a thick gold border and sharp corners, hollow transparent centre, front view, symmetric, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    },
+    {
+      "name": "sprite_banner_ribbon",
+      "type": "generic",
+      "transparent": true,
+      "sliced": true,
+      "target": "Assets/Art/Sprites/sprite_banner_ribbon.png",
+      "prompt": "One single horizontal ribbon banner with flat ends, front view, symmetric, deep green body with gold trim, chunky casual mobile game art, thick dark outline, flat rich colours, bold readable silhouette, centred, isolated, no text"
+    }
+  ]
+}

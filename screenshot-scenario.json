@@ -1,0 +1,74 @@
+{
+  "steps": [
+    {
+      "waitLoader": true,
+      "wait": 3,
+      "shot": "01_menu"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.755
+      ],
+      "label": "HOW_TO_PLAY",
+      "wait": 1.6,
+      "shot": "02_tutorial_swipe"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.923
+      ],
+      "label": "TUT_NEXT",
+      "wait": 1.4
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.923
+      ],
+      "label": "TUT_GOT_IT",
+      "wait": 1.6
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.655
+      ],
+      "label": "STAGES",
+      "wait": 1.5,
+      "shot": "03_stage_select"
+    },
+    {
+      "tapFrac": [
+        0.8575,
+        0.2367
+      ],
+      "label": "STAGES_CLOSE",
+      "wait": 1.3
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.535
+      ],
+      "label": "PLAY",
+      "waitLoader": true,
+      "wait": 9,
+      "shot": "04_game_falling"
+    },
+    {
+      "wait": 7.5,
+      "shot": "05_game_catch"
+    },
+    {
+      "tapFrac": [
+        0.9066,
+        0.1116
+      ],
+      "label": "PAUSE",
+      "wait": 1.8,
+      "shot": "06_pause_card"
+    }
+  ]
+}
